@@ -1,7 +1,8 @@
 {
   "name": "css-animated-card",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple animate profile card using html and css",
+  "GitHub": "https://github.com/kcdodson/animated-profile-card"
   "main": "index.js",
   "scripts": {
     "dev": "lite-server",
